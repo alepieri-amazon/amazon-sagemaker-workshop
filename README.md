@@ -1,4 +1,4 @@
-# Amazon SageMaker Workshops
+# Amazon SageMaker Workshops!
 
 Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. This repository contains a collection of 2-hour workshops covering many features of Amazon SageMaker.  They are suitable for self-service or live, guided events.  
 
